@@ -8,7 +8,10 @@ import magnify.features.Sources
 import magnify.model.{Json, Zip}
 import magnify.modules.inject
 import play.api.libs.Files
+import play.api.Play
+import play.api.Play.current
 import play.api.mvc._
+import play.api.Logger
 
 /**
  * @author Cezary Bartoszuk (cezary@codilime.com)
@@ -17,6 +20,17 @@ object ZipSourcesUpload extends ZipSourcesUpload(inject[Sources])
 
 sealed class ZipSourcesUpload (protected override val sources: Sources)
     extends Controller with ProjectList {
+
+  private val dir = Play.getFile("app/resources")
+
+  val logger = Logger(classOf[ZipSourcesUpload].getSimpleName)
+
+  for (file <- Play.getFile("app/resources").listFiles()) {
+    logger.error("processing: " + file.getName())
+    //val split = file.getName().split("\.")
+    //logger.error(split(0))
+    sources.add(file.getName(), new Json(file))
+  }
 
   private type MultipartRequest = Request[MultipartFormData[Files.TemporaryFile]]
 

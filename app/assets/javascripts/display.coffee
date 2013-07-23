@@ -3,34 +3,39 @@ $ ->
     width = $("#chart").width()
     height = $("#chart").height()
 
-    badness = d3.scale.linear().domain([-1, 300]).range(["green", "red"])
+    badness = d3.scale.linear().domain([-1, 30]).range(["green", "red"])
     color = (d) ->
       badness(d["metric--lines-of-code"])
 
     strength = (link) ->
       switch link.kind
         when "imports" then 0.01
-        when "package-imports" then 0.03
-        when "in-package" then 1.0
+        when "package-imports" then Math.min(1, Math.max(link.count / 50, 0.03))
+        when "in-package" then 1
 
     linkColor = (link) ->
       switch link.kind
         when "in-package" then "#cc0000"
         when "imports" then "#d3d7df"
-        when "package-imports" then "#babdb6"
+        when "package-imports" then "#cccccc"
 
     linkWidth = (link) ->
       switch link.kind
-        when "in-package" then 1.5
-        when "package-imports" then 1
+        when "in-package" then 1
+        when "package-imports" then Math.max(1, Math.min(link.count / 5.0, 25))
         when "imports" then 1
 
+    /*charge = (d) -> -50 - Math.pow(10000 * d["page-rank"],2)*/
+    charge = (d) -> -400
+    
     force = d3.layout.force()
-      .charge(-120)
+      .charge(charge)
       .linkDistance(30)
       .linkStrength(strength)
       .size([width, height])
-      .gravity(0.2)
+      .gravity(0.1)
+      .friction(0.9)
+      .theta(0.9)
 
     svg = d3
       .select("#chart")
@@ -50,7 +55,31 @@ $ ->
       .attr("height", height)
       .attr("fill", "transparent")
       .attr("pointer-events", "all")
+      
 
+
+    svg.append('svg:defs').append('svg:marker')
+      .attr('id', 'start-arrow')
+      .attr('viewBox', '0 -5 10 10')
+      .attr('refX', 4)
+      .attr('markerWidth', 1)
+      .attr('markerHeight', 1)
+      .attr('orient', 'auto')
+      .append('svg:path')
+      .attr('d', 'M10,-5L0,0L10,5')
+      .attr('fill', '#000')
+      
+    svg.append('svg:defs').append('svg:marker')
+      .attr('id', 'end-arrow')
+      .attr('viewBox', '0 -5 10 10')
+      .attr('refX', 6)
+      .attr('markerWidth', 3)
+      .attr('markerHeight', 3)
+      .attr('orient', 'auto')
+      .append('svg:path')
+      .attr('d', 'M0,-5L10,0L0,5')
+      .attr('fill', '#000');
+      
     d3.json jsonAddress, (json) ->
       force
         .nodes(json.nodes)
@@ -77,7 +106,7 @@ $ ->
         .enter()
         .append("circle")
         .attr("class", "node")
-        .attr("r", (d) -> 3 + Math.max(3, 100.0 * d["page-rank"]))
+        .attr("r", (d) -> 0.1 + Math.max(10, 3000.0 * d["page-rank"]))
         .style("fill", color)
         .call(force.drag)
 
