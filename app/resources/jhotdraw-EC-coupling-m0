@@ -1,0 +1,1366 @@
+{
+"nodes":  [
+{
+"name": "org/jhotdraw/draw",
+"metric--lines-of-code": "13",
+"page-rank": "0.00849992976263441",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw",
+"metric--lines-of-code": "0",
+"page-rank": "0.007195412665747217",
+"kind": "package"
+},
+{
+"name": "org",
+"metric--lines-of-code": "0",
+"page-rank": "0.003889412251755252",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui",
+"metric--lines-of-code": "2",
+"page-rank": "0.004359881541438724",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/color",
+"metric--lines-of-code": "1",
+"page-rank": "0.004467728879005782",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples",
+"metric--lines-of-code": "4",
+"page-rank": "0.004359881541438724",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/handle",
+"metric--lines-of-code": "15",
+"page-rank": "0.02229254478599196",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui/plaf/palette",
+"metric--lines-of-code": "2",
+"page-rank": "0.009772512834992317",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui/plaf",
+"metric--lines-of-code": "2",
+"page-rank": "0.004136472205770113",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/teddy",
+"metric--lines-of-code": "1",
+"page-rank": "0.004387432037063372",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/teddy/text",
+"metric--lines-of-code": "1",
+"page-rank": "0.004125444987926383",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/pert/figures",
+"metric--lines-of-code": "0",
+"page-rank": "0.007589164467458402",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/gui",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/teddy/action",
+"metric--lines-of-code": "0",
+"page-rank": "0.003936618798989478",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/tool",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui/event",
+"metric--lines-of-code": "0",
+"page-rank": "0.004136472205770113",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui/datatransfer",
+"metric--lines-of-code": "1",
+"page-rank": "0.004144201621665725",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/io",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/odg/action",
+"metric--lines-of-code": "0",
+"page-rank": "0.00481435030568104",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/layouter",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/locator",
+"metric--lines-of-code": "2",
+"page-rank": "0.003921554612533741",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/text",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/odg/figures",
+"metric--lines-of-code": "0",
+"page-rank": "0.00481435030568104",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/util",
+"metric--lines-of-code": "4",
+"page-rank": "0.004591683309318745",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/util/prefs",
+"metric--lines-of-code": "0",
+"page-rank": "0.004007682882449826",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/net/figures",
+"metric--lines-of-code": "0",
+"page-rank": "0.007589164467458402",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app",
+"metric--lines-of-code": "3",
+"page-rank": "0.004398815135038245",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app/action",
+"metric--lines-of-code": "4",
+"page-rank": "0.003898783161190797",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app/action/window",
+"metric--lines-of-code": "0",
+"page-rank": "0.004552205389157688",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/pert",
+"metric--lines-of-code": "0",
+"page-rank": "0.0043526496655331166",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/io",
+"metric--lines-of-code": "2",
+"page-rank": "0.004381749783749678",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/xml",
+"metric--lines-of-code": "2",
+"page-rank": "0.004413327450020068",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/liner",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/net",
+"metric--lines-of-code": "0",
+"page-rank": "0.0043526496655331166",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/net",
+"metric--lines-of-code": "0",
+"page-rank": "0.004359881541438724",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui/plaf/palette/colorchooser",
+"metric--lines-of-code": "1",
+"page-rank": "0.003953309451060971",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/odg",
+"metric--lines-of-code": "2",
+"page-rank": "0.0043526496655331166",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/text",
+"metric--lines-of-code": "3",
+"page-rank": "0.004500249282532251",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/svg/action",
+"metric--lines-of-code": "0",
+"page-rank": "0.0039797302326688815",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/geom",
+"metric--lines-of-code": "1",
+"page-rank": "0.0043637462493865305",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/decoration",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/xml/css",
+"metric--lines-of-code": "1",
+"page-rank": "0.0039339127644803995",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/svg",
+"metric--lines-of-code": "3",
+"page-rank": "0.004356514373480923",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/action",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui/fontchooser",
+"metric--lines-of-code": "1",
+"page-rank": "0.005094930195355898",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/teddy/regex",
+"metric--lines-of-code": "0",
+"page-rank": "0.003936618798989478",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/svg/gui",
+"metric--lines-of-code": "2",
+"page-rank": "0.004161199101223464",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/beans",
+"metric--lines-of-code": "0",
+"page-rank": "0.004359881541438724",
+"kind": "package"
+},
+{
+"name": "net/n3/nanoxml",
+"metric--lines-of-code": "4",
+"page-rank": "0.01507962462164381",
+"kind": "package"
+},
+{
+"name": "net/n3",
+"metric--lines-of-code": "4",
+"page-rank": "0.007195412665747217",
+"kind": "package"
+},
+{
+"name": "net",
+"metric--lines-of-code": "4",
+"page-rank": "0.003889412251755252",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/connector",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/svg/io",
+"metric--lines-of-code": "0",
+"page-rank": "0.0039797302326688815",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/draw",
+"metric--lines-of-code": "0",
+"page-rank": "0.0043526496655331166",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/mini",
+"metric--lines-of-code": "0",
+"page-rank": "0.0043526496655331166",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/odg/io",
+"metric--lines-of-code": "2",
+"page-rank": "0.005508234496288361",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app/action/app",
+"metric--lines-of-code": "0",
+"page-rank": "0.004552205389157688",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/odg/geom",
+"metric--lines-of-code": "0",
+"page-rank": "0.00481435030568104",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/gui/filechooser",
+"metric--lines-of-code": "0",
+"page-rank": "0.004136472205770113",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/event",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app/action/edit",
+"metric--lines-of-code": "0",
+"page-rank": "0.004552205389157688",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/teddy/io",
+"metric--lines-of-code": "0",
+"page-rank": "0.003936618798989478",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/color",
+"metric--lines-of-code": "3",
+"page-rank": "0.008070476944831107",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/undo",
+"metric--lines-of-code": "0",
+"page-rank": "0.004359881541438724",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app/action/file",
+"metric--lines-of-code": "4",
+"page-rank": "0.0071301914552847154",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app/osx",
+"metric--lines-of-code": "0",
+"page-rank": "0.003898783161190797",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/app/action/view",
+"metric--lines-of-code": "0",
+"page-rank": "0.004552205389157688",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/draw/print",
+"metric--lines-of-code": "0",
+"page-rank": "0.0038964816649629226",
+"kind": "package"
+},
+{
+"name": "org/jhotdraw/samples/svg/figures",
+"metric--lines-of-code": "2",
+"page-rank": "0.004359601000570072",
+"kind": "package"
+}]
+,"edges":  [
+{
+"source": 0,
+"target": 0,
+"count": "694",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 0,
+"count": "348",
+"kind": "package-imports"
+},
+{
+"source": 1,
+"target": 5,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 6,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 0,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 2,
+"target": 1,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 7,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 8,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 3,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 4,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 42,
+"target": 38,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 42,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 46,
+"target": 62,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 31,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 10,
+"target": 10,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 9,
+"target": 10,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 31,
+"target": 0,
+"count": "8",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 23,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 20,
+"target": 20,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 20,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 62,
+"target": 23,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 41,
+"target": 41,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 64,
+"count": "18",
+"kind": "package-imports"
+},
+{
+"source": 57,
+"target": 57,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 64,
+"count": "131",
+"kind": "package-imports"
+},
+{
+"source": 64,
+"target": 64,
+"count": "390",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 20,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 44,
+"target": 6,
+"count": "11",
+"kind": "package-imports"
+},
+{
+"source": 9,
+"target": 6,
+"count": "21",
+"kind": "package-imports"
+},
+{
+"source": 46,
+"target": 6,
+"count": "150",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 14,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 15,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 9,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 9,
+"target": 10,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 36,
+"target": 18,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 9,
+"target": 13,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 19,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 27,
+"target": 60,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 9,
+"target": 61,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 16,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 17,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 36,
+"target": 22,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 23,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 23,
+"target": 24,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 33,
+"target": 25,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 26,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 26,
+"target": 27,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 27,
+"target": 28,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 30,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 29,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 12,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 29,
+"target": 11,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 44,
+"target": 44,
+"count": "15",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 40,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 31,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 31,
+"target": 41,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 32,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 33,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 34,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 7,
+"target": 35,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 36,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 37,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 21,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 20,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 39,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 9,
+"target": 45,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 54,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 36,
+"target": 57,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 27,
+"target": 56,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 47,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 49,
+"target": 48,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 43,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 42,
+"target": 46,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 53,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 44,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 36,
+"target": 55,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 42,
+"target": 52,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 27,
+"target": 64,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 42,
+"target": 68,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 62,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 63,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 58,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 59,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 27,
+"target": 66,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 67,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 51,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 50,
+"target": 49,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 26,
+"target": 65,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 7,
+"target": 7,
+"count": "223",
+"kind": "package-imports"
+},
+{
+"source": 64,
+"target": 26,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 6,
+"count": "53",
+"kind": "package-imports"
+},
+{
+"source": 30,
+"target": 30,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 7,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 62,
+"target": 37,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 4,
+"target": 62,
+"count": "72",
+"kind": "package-imports"
+},
+{
+"source": 35,
+"target": 62,
+"count": "33",
+"kind": "package-imports"
+},
+{
+"source": 62,
+"target": 62,
+"count": "151",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 55,
+"count": "154",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 6,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 0,
+"count": "14",
+"kind": "package-imports"
+},
+{
+"source": 42,
+"target": 0,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 30,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 48,
+"target": 48,
+"count": "397",
+"kind": "package-imports"
+},
+{
+"source": 31,
+"target": 31,
+"count": "50",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 31,
+"count": "12",
+"kind": "package-imports"
+},
+{
+"source": 31,
+"target": 48,
+"count": "40",
+"kind": "package-imports"
+},
+{
+"source": 68,
+"target": 6,
+"count": "30",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 44,
+"count": "30",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 9,
+"count": "9",
+"kind": "package-imports"
+},
+{
+"source": 9,
+"target": 64,
+"count": "8",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 26,
+"count": "199",
+"kind": "package-imports"
+},
+{
+"source": 46,
+"target": 46,
+"count": "122",
+"kind": "package-imports"
+},
+{
+"source": 31,
+"target": 55,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 20,
+"target": 6,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 42,
+"target": 64,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 6,
+"count": "4028",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 23,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 48,
+"count": "190",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 41,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 55,
+"target": 55,
+"count": "197",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 68,
+"count": "80",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 16,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 37,
+"target": 6,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 37,
+"target": 37,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 30,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 68,
+"target": 0,
+"count": "71",
+"kind": "package-imports"
+},
+{
+"source": 68,
+"target": 68,
+"count": "49",
+"kind": "package-imports"
+},
+{
+"source": 54,
+"target": 54,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 9,
+"target": 9,
+"count": "42",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 46,
+"count": "41",
+"kind": "package-imports"
+},
+{
+"source": 55,
+"target": 48,
+"count": "97",
+"kind": "package-imports"
+},
+{
+"source": 3,
+"target": 3,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 35,
+"target": 46,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 6,
+"count": "299",
+"kind": "package-imports"
+},
+{
+"source": 42,
+"target": 6,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 68,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 55,
+"target": 0,
+"count": "14",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 6,
+"count": "18",
+"kind": "package-imports"
+},
+{
+"source": 64,
+"target": 6,
+"count": "74",
+"kind": "package-imports"
+},
+{
+"source": 42,
+"target": 42,
+"count": "20",
+"kind": "package-imports"
+},
+{
+"source": 39,
+"target": 39,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 4,
+"target": 4,
+"count": "20",
+"kind": "package-imports"
+},
+{
+"source": 41,
+"target": 48,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 16,
+"target": 16,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 39,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 4,
+"target": 37,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 35,
+"target": 35,
+"count": "24",
+"kind": "package-imports"
+},
+{
+"source": 35,
+"target": 4,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 31,
+"target": 6,
+"count": "12",
+"kind": "package-imports"
+},
+{
+"source": 55,
+"target": 6,
+"count": "28",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 42,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 23,
+"count": "14",
+"kind": "package-imports"
+},
+{
+"source": 46,
+"target": 23,
+"count": "8",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 35,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 46,
+"target": 7,
+"count": "39",
+"kind": "package-imports"
+},
+{
+"source": 35,
+"target": 7,
+"count": "83",
+"kind": "package-imports"
+},
+{
+"source": 46,
+"target": 37,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 54,
+"target": 6,
+"count": "7",
+"kind": "package-imports"
+}]
+}

@@ -1,0 +1,2962 @@
+{
+"nodes":  [
+{
+"name": "org/gephi/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014120527357280401",
+"kind": "package"
+},
+{
+"name": "org",
+"metric--lines-of-code": "0",
+"page-rank": "9.909142005109053E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/io",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters/plugin/operator",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012685979621956326",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.001960120670715722",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011402429061233143",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/importer/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012490819930334282",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/importer",
+"metric--lines-of-code": "0",
+"page-rank": "0.001214907258929519",
+"kind": "package"
+},
+{
+"name": "org/gephi/perspective/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018868864341853597",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/io/export/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0017890599006281868",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/exporter/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011974484345289235",
+"kind": "package"
+},
+{
+"name": "org/gephi/clustering/plugin/mcl",
+"metric--lines-of-code": "0",
+"page-rank": "0.002594767669568461",
+"kind": "package"
+},
+{
+"name": "org/gephi/clustering/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018868864341853597",
+"kind": "package"
+},
+{
+"name": "org/gephi/clustering",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/importer/plugin/file",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015217740475501123",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/scale",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010629854942110167",
+"kind": "package"
+},
+{
+"name": "org/gephi/data/attributes/model",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010066382541291166",
+"kind": "package"
+},
+{
+"name": "org/gephi/utils/progress",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012895716117357235",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/exporter/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011974484345289235",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012775887946793799",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin/dynamic",
+"metric--lines-of-code": "0",
+"page-rank": "0.00106038583824598",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/impl",
+"metric--lines-of-code": "0",
+"page-rank": "0.001496544850772271",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/types/propertyeditors",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018484227989176405",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/processor/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015072497855559508",
+"kind": "package"
+},
+{
+"name": "org/gephi/utils/longtask/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015389821354985878",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/processor",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011402429061233143",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/processor/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.001960120670715722",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters/plugin/partition",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012685979621956326",
+"kind": "package"
+},
+{
+"name": "org/gephi/algorithms",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/plugin/builders",
+"metric--lines-of-code": "0",
+"page-rank": "0.001419668499714273",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/generator/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.001960120670715722",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/generator",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011402429061233143",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters/plugin/attribute",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012685979621956326",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/graph/iterators",
+"metric--lines-of-code": "1",
+"page-rank": "0.0018347446437243207",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/labelAdjust",
+"metric--lines-of-code": "1",
+"page-rank": "0.0010629854942110167",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/io/export/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0017890599006281868",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/preview/propertyeditors",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010463564306432797",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014389003173481325",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/datalab/utils",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011273873823752119",
+"kind": "package"
+},
+{
+"name": "org/gephi/data/attributes/type",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010066382541291166",
+"kind": "package"
+},
+{
+"name": "org/gephi/algorithms/shortestpath",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018868864341853597",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi/rows",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010143839998311348",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi/rows/merge",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018531406003673698",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/columns/merge/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.0022947202230231005",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/force/yifanHu",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010238781944551883",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/exporter/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014755174356133138",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/statistics/api",
+"metric--lines-of-code": "1",
+"page-rank": "0.001143891431296045",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters/plugin/hierarchy",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012685979621956326",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/layout",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/spigot",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/partition/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014389003173481325",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/partition",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/project",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/preview",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/preview/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011017986607756544",
+"kind": "package"
+},
+{
+"name": "org/gephi/utils/collection",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012895716117357235",
+"kind": "package"
+},
+{
+"name": "org/gephi/utils/collection/avl",
+"metric--lines-of-code": "0",
+"page-rank": "0.00208705007048627",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/edges/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.002076864675988378",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/importer/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014334162144295736",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin/partition",
+"metric--lines-of-code": "0",
+"page-rank": "0.00106038583824598",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/hierarchy",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/filters/library",
+"metric--lines-of-code": "1",
+"page-rank": "0.0010614136363897581",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi/edges",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010143839998311348",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/context",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/edges",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012775887946793799",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin/graph",
+"metric--lines-of-code": "0",
+"page-rank": "0.00106038583824598",
+"kind": "package"
+},
+{
+"name": "org/gephi/project/io",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014389003173481325",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/force/quadtree",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012546261520651697",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters/plugin/dynamic",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012685979621956326",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/api",
+"metric--lines-of-code": "0",
+"page-rank": "9.975510318714568E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/columns/merge",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015338894382496417",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/importer/spi",
+"metric--lines-of-code": "1",
+"page-rank": "0.0012490819930334282",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/graph",
+"metric--lines-of-code": "1",
+"page-rank": "9.927416978981359E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/event",
+"metric--lines-of-code": "0",
+"page-rank": "9.927416978981359E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/core",
+"metric--lines-of-code": "0",
+"page-rank": "9.927416978981359E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/api/datatables",
+"metric--lines-of-code": "0",
+"page-rank": "0.002023585370600996",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.001214907258929519",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/exporter/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011974484345289235",
+"kind": "package"
+},
+{
+"name": "org/gephi/data/attributes/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010066382541291166",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/partition",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011402429061233143",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/partition/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.001960120670715722",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/exporter/impl",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011974484345289235",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/forceAtlas",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010629854942110167",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/columns/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015338894382496417",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi/columns",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010143839998311348",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/tools",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi/columns/merge",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018531406003673698",
+"kind": "package"
+},
+{
+"name": "org/gephi/project/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014389003173481325",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/branding/desktop/multilingual",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015255320235300907",
+"kind": "package"
+},
+{
+"name": "org/gephi/project",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/filters/query",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011671627902080375",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.001389432754701493",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin/attribute",
+"metric--lines-of-code": "1",
+"page-rank": "0.00106038583824598",
+"kind": "package"
+},
+{
+"name": "org/gephi/dynamic/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.001018064874258616",
+"kind": "package"
+},
+{
+"name": "org/gephi/dynamic",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/general/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.002076864675988378",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/general",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012775887946793799",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.001214907258929519",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators",
+"metric--lines-of-code": "0",
+"page-rank": "0.002023585370600996",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/rows",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012775887946793799",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/rows/merge",
+"metric--lines-of-code": "0",
+"page-rank": "0.002076864675988378",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/rows/merge/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.0027562491751010262",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/nodes",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012775887946793799",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/nodes/ui",
+"metric--lines-of-code": "0",
+"page-rank": "0.002076864675988378",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/processor",
+"metric--lines-of-code": "0",
+"page-rank": "0.001214907258929519",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/processor/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015072497855559508",
+"kind": "package"
+},
+{
+"name": "org/gephi/branding/desktop",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018868864341853597",
+"kind": "package"
+},
+{
+"name": "org/gephi/branding",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/netbeans/swing/dirchooser",
+"metric--lines-of-code": "0",
+"page-rank": "0.0028533993725086836",
+"kind": "package"
+},
+{
+"name": "org/netbeans",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014120527357280401",
+"kind": "package"
+},
+{
+"name": "org/netbeans/swing",
+"metric--lines-of-code": "0",
+"page-rank": "0.002191159025879739",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/utils",
+"metric--lines-of-code": "1",
+"page-rank": "9.927416978981359E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/utils/avl",
+"metric--lines-of-code": "1",
+"page-rank": "0.0018347446437243207",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns",
+"metric--lines-of-code": "0",
+"page-rank": "0.0040312442365381595",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/filters",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012441076919797558",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/netbeans/swing/dirchooser/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010375563056384512",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/importer/plugin/database",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015217740475501123",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/datalab/persistence",
+"metric--lines-of-code": "0",
+"page-rank": "9.994437743774244E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/ranking",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/types",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010088336451843944",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/exporter/preview/util",
+"metric--lines-of-code": "0",
+"page-rank": "0.00200874536986049",
+"kind": "package"
+},
+{
+"name": "org/gephi/partition",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/exporter",
+"metric--lines-of-code": "0",
+"page-rank": "0.001214907258929519",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/exporter/preview",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011974484345289235",
+"kind": "package"
+},
+{
+"name": "org/gephi/lib/gleem",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018868864341853597",
+"kind": "package"
+},
+{
+"name": "org/gephi/lib/gleem/linalg",
+"metric--lines-of-code": "0",
+"page-rank": "0.002594767669568461",
+"kind": "package"
+},
+{
+"name": "org/gephi/partition/impl",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014389003173481325",
+"kind": "package"
+},
+{
+"name": "org/gephi/lib",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin/edge",
+"metric--lines-of-code": "0",
+"page-rank": "0.00106038583824598",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/api",
+"metric--lines-of-code": "1",
+"page-rank": "0.0015464169853890671",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/datalab/general",
+"metric--lines-of-code": "0",
+"page-rank": "9.994437743774244E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/datalab",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/datalab/general/actions",
+"metric--lines-of-code": "0",
+"page-rank": "0.001883089278064312",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi",
+"metric--lines-of-code": "1",
+"page-rank": "0.001214907258929519",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi/nodes",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010143839998311348",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/forceAtlas2",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010629854942110167",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/io",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/io/export",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018779898826288978",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/filters/plugin/graph",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012685979621956326",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/rotate",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010629854942110167",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.0020349541750619713",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin/operator",
+"metric--lines-of-code": "0",
+"page-rank": "0.00106038583824598",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/database/drivers",
+"metric--lines-of-code": "0",
+"page-rank": "0.002023585370600996",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/edge/iterators",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018347446437243207",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/exporter/preview",
+"metric--lines-of-code": "0",
+"page-rank": "0.0014755174356133138",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/edge",
+"metric--lines-of-code": "0",
+"page-rank": "9.927416978981359E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/timeline",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/exporter",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011402429061233143",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/node",
+"metric--lines-of-code": "0",
+"page-rank": "9.927416978981359E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/data/attributes/serialization",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010066382541291166",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/importer/api",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011387601475305706",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/importer",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/data/attributes",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018868864341853597",
+"kind": "package"
+},
+{
+"name": "org/gephi/data",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/statistics",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015297723078513982",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/plugin/manipulators/columns",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012775887946793799",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/importer/impl",
+"metric--lines-of-code": "1",
+"page-rank": "0.0012490819930334282",
+"kind": "package"
+},
+{
+"name": "org/gephi/io/database",
+"metric--lines-of-code": "0",
+"page-rank": "0.001214907258929519",
+"kind": "package"
+},
+{
+"name": "org/gephi/graph/dhns/node/iterators",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018347446437243207",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/multilevel",
+"metric--lines-of-code": "2",
+"page-rank": "0.0010629854942110167",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010088336451843944",
+"kind": "package"
+},
+{
+"name": "org/gephi/workspace/impl",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018868864341853597",
+"kind": "package"
+},
+{
+"name": "org/gephi/workspace",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/spi",
+"metric--lines-of-code": "0",
+"page-rank": "9.975510318714568E-4",
+"kind": "package"
+},
+{
+"name": "org/gephi/branding/desktop/reporter",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015255320235300907",
+"kind": "package"
+},
+{
+"name": "org/gephi/datalab/spi/values",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010143839998311348",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/plugin/items",
+"metric--lines-of-code": "0",
+"page-rank": "0.001419668499714273",
+"kind": "package"
+},
+{
+"name": "org/gephi/layout/plugin/force",
+"metric--lines-of-code": "1",
+"page-rank": "0.0014736844351561824",
+"kind": "package"
+},
+{
+"name": "org/gephi/perspective",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/clustering",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010088336451843944",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/perspective/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0018779898826288978",
+"kind": "package"
+},
+{
+"name": "org/gephi/desktop/perspective",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010436184495505791",
+"kind": "package"
+},
+{
+"name": "org/gephi/utils/longtask/spi",
+"metric--lines-of-code": "0",
+"page-rank": "0.0015389821354985878",
+"kind": "package"
+},
+{
+"name": "org/gephi/utils/longtask",
+"metric--lines-of-code": "0",
+"page-rank": "0.0012895716117357235",
+"kind": "package"
+},
+{
+"name": "org/gephi/utils",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010540849807934756",
+"kind": "package"
+},
+{
+"name": "org/gephi/preview/presets",
+"metric--lines-of-code": "0",
+"page-rank": "0.0010203639472684356",
+"kind": "package"
+},
+{
+"name": "org/gephi/filters/plugin/hierarchy",
+"metric--lines-of-code": "0",
+"page-rank": "0.00106038583824598",
+"kind": "package"
+},
+{
+"name": "org/gephi/data/attributes/event",
+"metric--lines-of-code": "0",
+"page-rank": "0.001069534468601962",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/importer",
+"metric--lines-of-code": "0",
+"page-rank": "0.0011402429061233143",
+"kind": "package"
+},
+{
+"name": "org/gephi/ui/importer/plugin",
+"metric--lines-of-code": "0",
+"page-rank": "0.001960120670715722",
+"kind": "package"
+}]
+,"edges":  [
+{
+"source": 61,
+"target": 61,
+"count": "20",
+"kind": "package-imports"
+},
+{
+"source": 116,
+"target": 116,
+"count": "1869",
+"kind": "package-imports"
+},
+{
+"source": 158,
+"target": 158,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 36,
+"target": 36,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 5,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 6,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 0,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 2,
+"target": 1,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 7,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 8,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 3,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 4,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 117,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 7,
+"target": 121,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 185,
+"target": 185,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 143,
+"target": 143,
+"count": "14",
+"kind": "package-imports"
+},
+{
+"source": 138,
+"target": 138,
+"count": "27",
+"kind": "package-imports"
+},
+{
+"source": 187,
+"target": 187,
+"count": "17",
+"kind": "package-imports"
+},
+{
+"source": 93,
+"target": 93,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 94,
+"target": 93,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 163,
+"target": 59,
+"count": "20",
+"kind": "package-imports"
+},
+{
+"source": 170,
+"target": 170,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 123,
+"target": 123,
+"count": "48",
+"kind": "package-imports"
+},
+{
+"source": 34,
+"target": 34,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 159,
+"target": 159,
+"count": "93",
+"kind": "package-imports"
+},
+{
+"source": 159,
+"target": 185,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 22,
+"target": 22,
+"count": "91",
+"kind": "package-imports"
+},
+{
+"source": 136,
+"target": 39,
+"count": "15",
+"kind": "package-imports"
+},
+{
+"source": 89,
+"target": 93,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 93,
+"target": 94,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 91,
+"target": 88,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 89,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 98,
+"target": 97,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 118,
+"target": 92,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 100,
+"target": 98,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 158,
+"target": 157,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 158,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 96,
+"target": 95,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 96,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 100,
+"target": 101,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 101,
+"target": 102,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 102,
+"target": 103,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 100,
+"target": 104,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 104,
+"target": 105,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 106,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 106,
+"target": 107,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 109,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 109,
+"target": 108,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 91,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 108,
+"target": 90,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 119,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 112,
+"target": 110,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 110,
+"target": 120,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 2,
+"target": 111,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 111,
+"target": 112,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 116,
+"target": 113,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 113,
+"target": 114,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 115,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 115,
+"target": 116,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 99,
+"target": 100,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 119,
+"target": 99,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 118,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 97,
+"target": 97,
+"count": "57",
+"kind": "package-imports"
+},
+{
+"source": 127,
+"target": 128,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 127,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 136,
+"target": 122,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 34,
+"target": 116,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 126,
+"target": 131,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 132,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 128,
+"target": 125,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 126,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 186,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 186,
+"target": 187,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 132,
+"target": 129,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 129,
+"target": 130,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 136,
+"target": 135,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 136,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 119,
+"target": 138,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 135,
+"target": 137,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 138,
+"target": 139,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 145,
+"target": 140,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 141,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 141,
+"target": 142,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 143,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 150,
+"target": 124,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 123,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 154,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 153,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 145,
+"target": 144,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 146,
+"target": 145,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 146,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 150,
+"target": 134,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 93,
+"target": 133,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 152,
+"target": 149,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 150,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 154,
+"target": 151,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 116,
+"target": 152,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 161,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 155,
+"target": 165,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 160,
+"target": 159,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 160,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 116,
+"target": 155,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 159,
+"target": 156,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 163,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 3,
+"target": 164,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 164,
+"target": 148,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 93,
+"target": 147,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 100,
+"target": 162,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 24,
+"target": 24,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 19,
+"target": 19,
+"count": "14",
+"kind": "package-imports"
+},
+{
+"source": 1,
+"target": 175,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 176,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 177,
+"target": 173,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 150,
+"target": 177,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 179,
+"target": 178,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 179,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 181,
+"target": 180,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 182,
+"target": 181,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 182,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 150,
+"target": 183,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 92,
+"target": 92,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 159,
+"target": 185,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 93,
+"target": 184,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 130,
+"target": 130,
+"count": "218",
+"kind": "package-imports"
+},
+{
+"source": 4,
+"target": 4,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 163,
+"target": 163,
+"count": "167",
+"kind": "package-imports"
+},
+{
+"source": 134,
+"target": 183,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 136,
+"target": 136,
+"count": "81",
+"kind": "package-imports"
+},
+{
+"source": 31,
+"target": 31,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 27,
+"target": 27,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 140,
+"target": 140,
+"count": "23",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 23,
+"count": "15",
+"kind": "package-imports"
+},
+{
+"source": 78,
+"target": 78,
+"count": "24",
+"kind": "package-imports"
+},
+{
+"source": 94,
+"target": 94,
+"count": "13",
+"kind": "package-imports"
+},
+{
+"source": 103,
+"target": 103,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 150,
+"target": 134,
+"count": "30",
+"kind": "package-imports"
+},
+{
+"source": 47,
+"target": 161,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 64,
+"target": 64,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 138,
+"target": 22,
+"count": "12",
+"kind": "package-imports"
+},
+{
+"source": 166,
+"target": 145,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 9,
+"target": 9,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 35,
+"target": 145,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 166,
+"target": 174,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 20,
+"target": 20,
+"count": "13",
+"kind": "package-imports"
+},
+{
+"source": 12,
+"target": 12,
+"count": "45",
+"kind": "package-imports"
+},
+{
+"source": 161,
+"target": 47,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 47,
+"target": 47,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 49,
+"target": 49,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 35,
+"target": 35,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 10,
+"target": 10,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 145,
+"target": 145,
+"count": "17",
+"kind": "package-imports"
+},
+{
+"source": 183,
+"target": 183,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 105,
+"target": 105,
+"count": "31",
+"kind": "package-imports"
+},
+{
+"source": 25,
+"target": 25,
+"count": "29",
+"kind": "package-imports"
+},
+{
+"source": 176,
+"target": 176,
+"count": "15",
+"kind": "package-imports"
+},
+{
+"source": 86,
+"target": 86,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 174,
+"target": 68,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 81,
+"target": 81,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 53,
+"target": 53,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 59,
+"target": 59,
+"count": "12",
+"kind": "package-imports"
+},
+{
+"source": 166,
+"target": 166,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 134,
+"target": 134,
+"count": "113",
+"kind": "package-imports"
+},
+{
+"source": 118,
+"target": 118,
+"count": "23",
+"kind": "package-imports"
+},
+{
+"source": 174,
+"target": 145,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 39,
+"target": 39,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 95,
+"target": 95,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 84,
+"target": 84,
+"count": "15",
+"kind": "package-imports"
+},
+{
+"source": 90,
+"target": 90,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 161,
+"target": 161,
+"count": "30",
+"kind": "package-imports"
+},
+{
+"source": 89,
+"target": 89,
+"count": "132",
+"kind": "package-imports"
+},
+{
+"source": 54,
+"target": 55,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 55,
+"target": 55,
+"count": "18",
+"kind": "package-imports"
+},
+{
+"source": 173,
+"target": 173,
+"count": "24",
+"kind": "package-imports"
+},
+{
+"source": 106,
+"target": 24,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 28,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 175,
+"target": 9,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 142,
+"target": 10,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 127,
+"target": 11,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 13,
+"target": 12,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 14,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 14,
+"target": 13,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 7,
+"target": 15,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 145,
+"target": 16,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 73,
+"target": 34,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 119,
+"target": 22,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 124,
+"target": 23,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 33,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 127,
+"target": 19,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 26,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 26,
+"target": 27,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 93,
+"target": 21,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 100,
+"target": 20,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 181,
+"target": 25,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 138,
+"target": 42,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 29,
+"target": 41,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 29,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 177,
+"target": 30,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 54,
+"target": 37,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 146,
+"target": 38,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 137,
+"target": 137,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 32,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 32,
+"target": 31,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 145,
+"target": 35,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 142,
+"target": 36,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 42,
+"target": 43,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 71,
+"target": 44,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 174,
+"target": 45,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 154,
+"target": 46,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 161,
+"target": 47,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 159,
+"target": 40,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 136,
+"target": 39,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 182,
+"target": 56,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 56,
+"target": 57,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 48,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 49,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 50,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 126,
+"target": 51,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 52,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 53,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 91,
+"target": 67,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 118,
+"target": 62,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 93,
+"target": 60,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 61,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 93,
+"target": 66,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 119,
+"target": 77,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 64,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 100,
+"target": 65,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 65,
+"target": 58,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 59,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 77,
+"target": 76,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 138,
+"target": 63,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 116,
+"target": 74,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 116,
+"target": 75,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 174,
+"target": 68,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 5,
+"target": 69,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 138,
+"target": 85,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 85,
+"target": 87,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 72,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 116,
+"target": 73,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 162,
+"target": 71,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 89,
+"target": 70,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 0,
+"target": 80,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 80,
+"target": 81,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 127,
+"target": 82,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 145,
+"target": 83,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 162,
+"target": 84,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 159,
+"target": 17,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 182,
+"target": 18,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 86,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 159,
+"target": 79,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 127,
+"target": 78,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 38,
+"target": 38,
+"count": "29",
+"kind": "package-imports"
+},
+{
+"source": 114,
+"target": 116,
+"count": "14",
+"kind": "package-imports"
+},
+{
+"source": 54,
+"target": 54,
+"count": "13",
+"kind": "package-imports"
+},
+{
+"source": 41,
+"target": 41,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 174,
+"target": 174,
+"count": "24",
+"kind": "package-imports"
+},
+{
+"source": 54,
+"target": 55,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 117,
+"target": 54,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 145,
+"target": 166,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 150,
+"target": 167,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 169,
+"target": 168,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 1,
+"target": 169,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 89,
+"target": 170,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 108,
+"target": 171,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 138,
+"target": 172,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 145,
+"target": 174,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 48,
+"target": 48,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 21,
+"target": 21,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 150,
+"target": 150,
+"count": "15",
+"kind": "package-imports"
+},
+{
+"source": 148,
+"target": 148,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 131,
+"target": 131,
+"count": "42",
+"kind": "package-imports"
+},
+{
+"source": 136,
+"target": 137,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 50,
+"target": 50,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 62,
+"target": 62,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 153,
+"target": 153,
+"count": "76",
+"kind": "package-imports"
+},
+{
+"source": 69,
+"target": 69,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 171,
+"target": 171,
+"count": "25",
+"kind": "package-imports"
+},
+{
+"source": 114,
+"target": 114,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 40,
+"target": 40,
+"count": "16",
+"kind": "package-imports"
+},
+{
+"source": 68,
+"target": 68,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 96,
+"target": 96,
+"count": "32",
+"kind": "package-imports"
+},
+{
+"source": 108,
+"target": 108,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 125,
+"target": 125,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 72,
+"target": 59,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 118,
+"target": 92,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 118,
+"target": 62,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 67,
+"target": 67,
+"count": "16",
+"kind": "package-imports"
+},
+{
+"source": 28,
+"target": 28,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 15,
+"target": 15,
+"count": "9",
+"kind": "package-imports"
+},
+{
+"source": 110,
+"target": 110,
+"count": "51",
+"kind": "package-imports"
+},
+{
+"source": 151,
+"target": 151,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 60,
+"target": 60,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 33,
+"target": 33,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 121,
+"target": 121,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 184,
+"target": 184,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 57,
+"target": 57,
+"count": "16",
+"kind": "package-imports"
+},
+{
+"source": 72,
+"target": 72,
+"count": "42",
+"kind": "package-imports"
+},
+{
+"source": 46,
+"target": 46,
+"count": "33",
+"kind": "package-imports"
+},
+{
+"source": 44,
+"target": 44,
+"count": "25",
+"kind": "package-imports"
+},
+{
+"source": 147,
+"target": 147,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 58,
+"target": 58,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 66,
+"target": 66,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 62,
+"target": 118,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 52,
+"target": 52,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 37,
+"target": 37,
+"count": "3",
+"kind": "package-imports"
+}]
+}

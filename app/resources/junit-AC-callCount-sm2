@@ -1,0 +1,790 @@
+{
+"nodes":  [
+{
+"name": "org/junit/matchers",
+"metric--lines-of-code": "1",
+"page-rank": "0.00821218029911245",
+"kind": "package"
+},
+{
+"name": "org/junit/internal/runners/statements",
+"metric--lines-of-code": "2",
+"page-rank": "0.0063075739588290495",
+"kind": "package"
+},
+{
+"name": "org/junit/runner/notification",
+"metric--lines-of-code": "1",
+"page-rank": "0.009718905682438208",
+"kind": "package"
+},
+{
+"name": "junit/runner",
+"metric--lines-of-code": "0",
+"page-rank": "0.009554540942902673",
+"kind": "package"
+},
+{
+"name": "org/junit/runner/manipulation",
+"metric--lines-of-code": "0",
+"page-rank": "0.012849543797969546",
+"kind": "package"
+},
+{
+"name": "org/junit/experimental/theories/internal",
+"metric--lines-of-code": "3",
+"page-rank": "0.013635577207963084",
+"kind": "package"
+},
+{
+"name": "org/junit/internal/builders",
+"metric--lines-of-code": "3",
+"page-rank": "0.006582728737806846",
+"kind": "package"
+},
+{
+"name": "org/junit/runners",
+"metric--lines-of-code": "7",
+"page-rank": "0.013126765762806232",
+"kind": "package"
+},
+{
+"name": "org/junit",
+"metric--lines-of-code": "3",
+"page-rank": "0.01173281740103917",
+"kind": "package"
+},
+{
+"name": "org",
+"metric--lines-of-code": "3",
+"page-rank": "0.006058927839096851",
+"kind": "package"
+},
+{
+"name": "org/junit/internal",
+"metric--lines-of-code": "8",
+"page-rank": "0.014789672434164597",
+"kind": "package"
+},
+{
+"name": "org/junit/runners/model",
+"metric--lines-of-code": "1",
+"page-rank": "0.020078778701115886",
+"kind": "package"
+},
+{
+"name": "junit/textui",
+"metric--lines-of-code": "1",
+"page-rank": "0.007562730884597531",
+"kind": "package"
+},
+{
+"name": "junit",
+"metric--lines-of-code": "3",
+"page-rank": "0.006058927839096851",
+"kind": "package"
+},
+{
+"name": "org/junit/internal/matchers",
+"metric--lines-of-code": "0",
+"page-rank": "0.013563081992052427",
+"kind": "package"
+},
+{
+"name": "org/junit/internal/requests",
+"metric--lines-of-code": "3",
+"page-rank": "0.006582728737806846",
+"kind": "package"
+},
+{
+"name": "org/junit/experimental/max",
+"metric--lines-of-code": "4",
+"page-rank": "0.00927195094121401",
+"kind": "package"
+},
+{
+"name": "junit/extensions",
+"metric--lines-of-code": "1",
+"page-rank": "0.009560280712917039",
+"kind": "package"
+},
+{
+"name": "org/junit/rules",
+"metric--lines-of-code": "3",
+"page-rank": "0.007377550862162432",
+"kind": "package"
+},
+{
+"name": "org/junit/experimental/theories/suppliers",
+"metric--lines-of-code": "1",
+"page-rank": "0.006802835204181916",
+"kind": "package"
+},
+{
+"name": "org/junit/internal/runners/model",
+"metric--lines-of-code": "2",
+"page-rank": "0.008609113502306807",
+"kind": "package"
+},
+{
+"name": "org/junit/experimental",
+"metric--lines-of-code": "6",
+"page-rank": "0.007167027260306106",
+"kind": "package"
+},
+{
+"name": "org/junit/experimental/theories",
+"metric--lines-of-code": "4",
+"page-rank": "0.01750370270788389",
+"kind": "package"
+},
+{
+"name": "org/junit/runner",
+"metric--lines-of-code": "7",
+"page-rank": "0.0470557319452745",
+"kind": "package"
+},
+{
+"name": "org/junit/internal/runners",
+"metric--lines-of-code": "6",
+"page-rank": "0.018136540498113324",
+"kind": "package"
+},
+{
+"name": "org/junit/experimental/categories",
+"metric--lines-of-code": "1",
+"page-rank": "0.007581921131911898",
+"kind": "package"
+},
+{
+"name": "org/junit/experimental/results",
+"metric--lines-of-code": "3",
+"page-rank": "0.007581921131911898",
+"kind": "package"
+},
+{
+"name": "junit/framework",
+"metric--lines-of-code": "5",
+"page-rank": "0.016284678000383985",
+"kind": "package"
+}]
+,"edges":  [
+{
+"source": 7,
+"target": 7,
+"count": "21",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 5,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 24,
+"target": 27,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 24,
+"target": 2,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 24,
+"target": 23,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 10,
+"target": 8,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 11,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 13,
+"target": 12,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 7,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 9,
+"target": 8,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 13,
+"target": 27,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 10,
+"target": 14,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 10,
+"target": 15,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 10,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 10,
+"target": 24,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 23,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 7,
+"target": 10,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 22,
+"target": 7,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 1,
+"target": 5,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 1,
+"target": 11,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 10,
+"target": 10,
+"count": "16",
+"kind": "package-imports"
+},
+{
+"source": 16,
+"target": 16,
+"count": "8",
+"kind": "package-imports"
+},
+{
+"source": 27,
+"target": 3,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 0,
+"target": 14,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 18,
+"target": 18,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 22,
+"target": 22,
+"count": "10",
+"kind": "package-imports"
+},
+{
+"source": 15,
+"target": 23,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 11,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 23,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 20,
+"target": 24,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 20,
+"target": 11,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 27,
+"target": 27,
+"count": "50",
+"kind": "package-imports"
+},
+{
+"source": 27,
+"target": 2,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 27,
+"target": 23,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 16,
+"target": 23,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 17,
+"target": 27,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 22,
+"target": 10,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 5,
+"target": 5,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 5,
+"target": 7,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 19,
+"target": 22,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 5,
+"target": 22,
+"count": "5",
+"kind": "package-imports"
+},
+{
+"source": 24,
+"target": 24,
+"count": "48",
+"kind": "package-imports"
+},
+{
+"source": 22,
+"target": 5,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 23,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 5,
+"target": 20,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 18,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 6,
+"target": 11,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 20,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 24,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 24,
+"count": "6",
+"kind": "package-imports"
+},
+{
+"source": 13,
+"target": 3,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 23,
+"target": 4,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 22,
+"target": 5,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 6,
+"target": 24,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 10,
+"target": 6,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 7,
+"target": 11,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 8,
+"target": 0,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 21,
+"target": 26,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 21,
+"target": 25,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 18,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 21,
+"target": 16,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 24,
+"target": 20,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 13,
+"target": 17,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 21,
+"target": 22,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 22,
+"target": 19,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 23,
+"target": 2,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 24,
+"target": 1,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 8,
+"target": 21,
+"count": "1",
+"kind": "in-package"
+},
+{
+"source": 23,
+"target": 27,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 15,
+"target": 11,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 11,
+"target": 11,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 26,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 23,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 10,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 8,
+"target": 8,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 22,
+"target": 11,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 8,
+"target": 10,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 23,
+"count": "46",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 16,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 27,
+"target": 4,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 7,
+"target": 4,
+"count": "4",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 4,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 15,
+"target": 4,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 4,
+"target": 4,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 11,
+"target": 23,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 3,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 26,
+"target": 2,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 18,
+"target": 23,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 24,
+"target": 4,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 16,
+"target": 2,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 10,
+"target": 2,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 2,
+"target": 23,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 25,
+"target": 23,
+"count": "7",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 17,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 23,
+"target": 10,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 10,
+"target": 17,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 12,
+"target": 23,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 18,
+"target": 11,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 18,
+"target": 0,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 24,
+"target": 11,
+"count": "1",
+"kind": "package-imports"
+},
+{
+"source": 16,
+"target": 5,
+"count": "2",
+"kind": "package-imports"
+},
+{
+"source": 16,
+"target": 7,
+"count": "3",
+"kind": "package-imports"
+},
+{
+"source": 27,
+"target": 12,
+"count": "1",
+"kind": "package-imports"
+}]
+}
